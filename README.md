@@ -152,8 +152,8 @@ image_decoding(
     output_dir="/home/.../frames/PC_Bin"
 )
 
-
-## Pose Extraction System for Azure Kinect Recordings
+```
+# Pose Extraction System for Azure Kinect Recordings
 
 This system processes **Azure Kinect MKV recordings** to extract 3D human pose data.  
 It combines depth information and AI models to generate accurate spatial positioning of key joints.  
